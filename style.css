@@ -13,7 +13,7 @@
 .inf img {
   width: 100%;
 }
-.inf .more-inf {
+.inf .inf__more {
   font-family: fantasy, cursive;
 }
 
@@ -140,11 +140,11 @@ ul li input[type="text"] {
   display: none;
 }
 
-.edit-mode input[type="text"] {
+.main-page__edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode label {
+.main-page__edit-mode label {
   display: none;
 }
